@@ -1,0 +1,6 @@
+﻿../../easy/e1.txt
+../../easy/e2.txt
+../../easy/e3.txt
+../../medium/m1.txt
+../../medium/m3.txt
+../../medium/m3.txt
